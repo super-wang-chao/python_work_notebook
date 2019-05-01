@@ -1,4 +1,2 @@
-我爱中国 
-这是一个git 的测试版本
+https://www.cnblogs.com/my-freedom/p/5701427.html 基本git教程
 
-//这是我后面加的内容
